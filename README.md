@@ -17,6 +17,7 @@ The project utilizes the following technologies
 - scikit-learn
 - Tensorflow
 - Numpy and Pandas
+- Jupyter Notebooks
 
 
 ## Supervised Learning
@@ -28,14 +29,35 @@ Common could be mentioned as
 - Regression (Single and Multi Feature)
 - Classification
 
-## Useful links
+# Python Notebooks
 
-| Tool         | Version                                           |
-|--------------|---------------------------------------------------|
-| Python       | https://www.python.org/ 						   |
-| Tensorflow   | https://www.tensorflow.org/                	   |
-| scikit-learn | https://scikit-learn.org/stable/                  |
-| Numpy        | https://numpy.org/               				   |
-| Pandas       | https://pandas.pydata.org/               		   |
+Jupyter notebooks are great way to experiment any piece of Python code.
+
+## Installing Requirements
+
+Using pip and venv to manage requirements, depedencies could be obtained using the following commands
+```console
+foo@bar:~$ python -m venv py312
+foo@bar:~$ py312\Scripts\activate.bat
+```
+
+## Running Notebooks
+
+Either on window or Linux run the Notebook server using the following command:
+
+```console
+foo@bar:~$ jupyter notebook
+```
+
+# Useful links
+
+| Tool         | Version                                              |
+|-------------------|-------------------------------------------------|
+| Python            | https://www.python.org/ 				          |
+| Tensorflow        | https://www.tensorflow.org/                	  |
+| scikit-learn      | https://scikit-learn.org/stable/                |
+| Numpy             | https://numpy.org/               				  |
+| Pandas            | https://pandas.pydata.org/               		  |
+| Jupyter Notebooks | https://docs.jupyter.org/en/latest/running.html |
 
 
