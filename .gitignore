@@ -1,0 +1,7 @@
+py312
+.idea
+
+__pycache__/
+target
+
+*.csv
