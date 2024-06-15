@@ -30,12 +30,12 @@ Common could be mentioned as
 
 ## Useful links
 
-| Tool       | Version                                           |
-|------------|---------------------------------------------------|
-| Python     | https://www.python.org/ 							 |
-| Tensorflow | https://www.tensorflow.org/                		 |
-| Tensorflow | https://scikit-learn.org/stable/               	 |
-| Numpy      | https://numpy.org/               				 |
-| Pandas     | https://pandas.pydata.org/               		 |
+| Tool         | Version                                           |
+|--------------|---------------------------------------------------|
+| Python       | https://www.python.org/ 						   |
+| Tensorflow   | https://www.tensorflow.org/                	   |
+| scikit-learn | https://scikit-learn.org/stable/                  |
+| Numpy        | https://numpy.org/               				   |
+| Pandas       | https://pandas.pydata.org/               		   |
 
 
